@@ -1,2 +1,1 @@
 # WartegCibadak
-halo bang
